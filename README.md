@@ -42,6 +42,10 @@ Last update: 2019-09-07
 *PROJECT CONTENTS*
 
 ![Eclipse](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/eclipse.png)
+![Tomcat](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/tomcatRun.png)
+![App Login](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/appLogin.png)
+![App List](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/appList.png)
+![App New User Validation](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/appNewUserValidation.png)
 
 **FRONTEND (see webapp folders)**
 - HTML5, CSS and JS
