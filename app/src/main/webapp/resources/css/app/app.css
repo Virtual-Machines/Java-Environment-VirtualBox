@@ -1,0 +1,112 @@
+/**
+	Custom css @author David García Prados
+**/
+h1 {
+	font-size: 1.5rem !important;
+}
+
+.topnav {
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	right: 0;
+}
+
+.sidenav {
+	height: 100%;
+	width: 150px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: #111;
+	overflow-x: hidden;
+}
+
+.sidenav a {
+	padding: 8px 8px 8px 16px;
+	text-decoration: none;
+	color: #818181;
+	display: block;
+}
+
+.sidenav a.active {
+	background-color: #555753;
+	color: white;
+}
+
+.sidenav form {
+	padding: 8px 8px 8px 16px;
+}
+
+.sidenav a:hover {
+	color: #f1f1f1;
+}
+
+#main {
+	margin-top: 30px;
+	margin-left: 150px;
+}
+
+/* The switch - the box around the slider */
+.switch {
+	position: relative;
+	display: inline-block;
+	width: 60px;
+	height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+	opacity: 0;
+	width: 0;
+	height: 0;
+}
+
+/* The slider */
+.slider {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #ccc;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+
+.slider:before {
+	position: absolute;
+	content: "";
+	height: 26px;
+	width: 26px;
+	left: 4px;
+	bottom: 4px;
+	background-color: white;
+	-webkit-transition: 1s;
+	transition: 1s;
+}
+
+input:checked ~ .slider {
+	background-color: #007bff;
+}
+
+input:focus ~ .slider {
+	box-shadow: 0 0 1px #007bff;
+}
+
+input:checked ~ .slider:before {
+	-webkit-transform: translateX(26px);
+	-ms-transform: translateX(26px);
+	transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+	border-radius: 34px;
+}
+
+.slider.round:before {
+	border-radius: 50%;
+}
