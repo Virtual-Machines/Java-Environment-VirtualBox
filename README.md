@@ -14,7 +14,6 @@ Last update: 2019-09-07
 ![Gnumeric](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/gnumeric.png)
 ![DBeaver](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/dbeaver.png)
 ![DBeaver Diagram](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/dbeaverDiagram.png)
-![VLC](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/vlc.png)
 ![Kazam](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/kazam.png)
 ![uGet](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/uget.png)
 ![Apache Directory Studio](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/apacheDirectoryStudio.png)
