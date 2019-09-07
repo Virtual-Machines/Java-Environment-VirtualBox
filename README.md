@@ -9,6 +9,36 @@ Last update: 2019-09-07
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/desktop.png)
 
+- Minimal Lubuntu 18.04.3 as a lightweight base (lubuntu-core package)
+- VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
+- OpenJDK 8
+- Eclipse 4.12 (2019-06) Java EE with Maven, Gradle, JPA, JSF, Mylyn and Egit (Git)
+- Java project configured
+- JasperSoft Studio Community (JasperReports) as Eclipse plugin
+- SonarLint (real-time code audit by SonarSource, the creators of SonarQube) as Eclipse plugin
+- Subclipse (SVN Team Provider) as Eclipse plugin (SVN connector installed and configured)
+- PostgreSQL and DBeaver
+- PuTTy
+- FileZilla
+- Local mail testing server that is easy to integrate with javax.mail: Postfix (SMTP), mailutils, courier-pop and courier-imap
+- Mozilla Thunderbird as mail client with account example: lubuntu@lubuntu
+- Basic python http server included. Example: python3 -m http.server 8080
+- NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
+- Mozilla Firefox
+- Chromium browser
+- Useful tools for website images processing and optimization: optipng, pngquant, jpegoptim and ImageMagick
+- GIMP
+- Gnumeric: a spreadsheet computer program that can automate scripts through formulas like Excel and Calc
+- VLC as audio and video player
+- Kazam as screen recorder
+- uGet Download Manager
+- Apache Directory Studio (bundled with ApacheDS) as LDAP and Kerberos tool
+- Project Libre
+
+- User and pass of system is the same: **lubuntu**
+- Postgresql pass is the default: **postgres**
+- Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
+
 *PROJECT CONTENTS*
 
 ![Eclipse](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/eclipse.png)
