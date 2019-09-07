@@ -1,5 +1,4 @@
 # Super Environment VirtualBox
-Java Special Environment on a virtual machine
 
 **DOWNLOAD: [VIRTUAL MACHINE](https://github.com/Virtual-Machines/Super-Environment-VirtualBox/releases/download/latest/DavidSuperEnvironment.ova) - [ONLY PROJECT CODE](https://github.com/Virtual-Machines/Super-Environment-VirtualBox/archive/master.zip)**
 
