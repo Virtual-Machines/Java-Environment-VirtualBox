@@ -5,7 +5,7 @@ Java Special Environment on a virtual machine
 
 Last update: 2019-09-07
 
-PROJECT CONTENTS
+*PROJECT CONTENTS*
 
 **FRONTEND (see webapp folders)**
 - HTML5, CSS and JS
