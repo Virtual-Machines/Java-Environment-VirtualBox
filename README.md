@@ -1,4 +1,4 @@
-# Super-Environment-VirtualBox
+# Super Environment VirtualBox
 Java Special Environment that contains a base project that uses:
 
 **FRONTEND (see webapp folders)**
