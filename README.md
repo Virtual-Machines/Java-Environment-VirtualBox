@@ -8,6 +8,7 @@ Last update: 2019-09-07
 *VIRTUAL MACHINE*
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/desktop.png)
+![Eclipse](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/eclipse.png)
 
 
 *PROJECT CONTENTS*
