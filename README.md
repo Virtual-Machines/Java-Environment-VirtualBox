@@ -1,9 +1,9 @@
 # Super Environment VirtualBox
+Java Special Environment on a virtual machine that contains a base project that uses:
+
 **DOWNLOAD: [VIRTUAL MACHINE](https://github.com/Virtual-Machines/Super-Environment-VirtualBox/releases/download/latest/DavidSuperEnvironment.ova) - [ONLY PROJECT CODE](https://github.com/Virtual-Machines/Super-Environment-VirtualBox/archive/master.zip)**
 
 Last update: 2019-09-07
-
-Java Special Environment on a virtual machine that contains a base project that uses:
 
 **FRONTEND (see webapp folders)**
 - HTML5, CSS and JS
