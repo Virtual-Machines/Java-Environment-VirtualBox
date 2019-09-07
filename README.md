@@ -8,9 +8,9 @@ Java Special Environment that contains a project that uses
   - Font Awesome
 
 **BACKEND (see Maven pom.xml)**
-  - Spring MVC
-	- Jackson databind for JSON response body (convert DTOs to json)
-	- Spring Security (authentication): config, web and taglibs
+- Spring MVC
+- Jackson databind for JSON response body (convert DTOs to json)
+- Spring Security (authentication): config, web and taglibs
 	- Javax validation (form validation)
   - Spring ORM
   - Hibernate (map DB tables to Java Entities)
