@@ -7,6 +7,18 @@ Last update: 2019-09-07
 *VIRTUAL MACHINE*
 
 ![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/desktop.png)
+![Jasper Reports](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/jasperreports.png)
+![FileZilla](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/filezilla.png)
+![Putty](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/putty.png)
+![GIMP](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/gimp.png)
+![Gnumeric](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/gnumeric.png)
+![DBeaver](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/dbeaver.png)
+![DBeaver Diagram](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/dbeaverDiagram.png)
+![VLC](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/vlc.png)
+![Kazam](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/kazam.png)
+![uGet](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/uget.png)
+![Apache Directory Studio](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/apacheDirectoryStudio.png)
+![Project Libre](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/projectLibre.png)
 
 - Minimal Lubuntu 18.04.3 as a lightweight base (lubuntu-core package)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
