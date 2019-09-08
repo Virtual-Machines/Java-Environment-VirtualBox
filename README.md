@@ -27,6 +27,7 @@ Last update: 2019-09-08
 - JasperSoft Studio Community (JasperReports) as Eclipse plugin
 - SonarLint (real-time code audit by SonarSource, the creators of SonarQube) as Eclipse plugin
 - Subclipse (SVN Team Provider) as Eclipse plugin (SVN connector installed and configured)
+- ObjectAid Class Diagram Tool
 - PostgreSQL and DBeaver
 - PuTTy
 - FileZilla
