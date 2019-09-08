@@ -20,7 +20,12 @@ Last update: 2019-09-08
 ![Project Libre](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/projectLibre.png)
 
 - Minimal Lubuntu 18.04.3 as a lightweight base (lubuntu-core package)
+- Linux Kernel 5 HWE (Hardware Enablement)
 - VirtualBox Guest Additions (bidirectional clipboard between host and guest, shared folders capable, Seamless Mode...)
+- Synaptic package manager
+- Basic python http server included. Example: python3 -m http.server 8080
+- Command-line download manager: wget
+- NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - OpenJDK 8
 - Eclipse 4.12 (2019-06) Java EE with Maven, Gradle, JPA, JSF, Mylyn and Egit (Git)
 - Java project configured
