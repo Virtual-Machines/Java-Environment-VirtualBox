@@ -1,4 +1,4 @@
-# Java Environment VirtualBox [VIRTUAL MACHINE](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/releases/download/latest/JavaEnvironmentVirtualBox.ova) - [SOURCE](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/archive/master.zip)**
+# Java Environment VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/releases/download/latest/JavaEnvironmentVirtualBox.ova)
 
 Last update: 2019-09-11
 
