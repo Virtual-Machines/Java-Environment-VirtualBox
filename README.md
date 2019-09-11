@@ -1,6 +1,6 @@
 # Java Environment VirtualBox
 
-**DOWNLOAD: [VIRTUAL MACHINE](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/releases/download/latest/DavidSuperEnvironment.ova) - [ONLY PROJECT CODE](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/archive/master.zip)**
+**DOWNLOAD: [VIRTUAL MACHINE](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/releases/download/latest/JavaEnvironmentVirtualBox.ova) - [ONLY PROJECT CODE](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/archive/master.zip)**
 
 Last update: 2019-09-11
 
