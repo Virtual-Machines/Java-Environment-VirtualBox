@@ -49,7 +49,6 @@ Last update: 2019-09-11
 - Apache Directory Studio (bundled with ApacheDS) as LDAP and Kerberos tool
 - Project Libre
 
-
 - User and pass of system is the same: **lubuntu**
 - Postgresql pass is the default: **postgres**
 - Import OVA on VirtualBox using "File -> Import Appliance (or Control + I)"
