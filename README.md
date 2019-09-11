@@ -1,23 +1,23 @@
 # Java Environment VirtualBox
 
-**DOWNLOAD: [VIRTUAL MACHINE](https://github.com/Virtual-Machines/Super-Environment-VirtualBox/releases/download/latest/DavidSuperEnvironment.ova) - [ONLY PROJECT CODE](https://github.com/Virtual-Machines/Super-Environment-VirtualBox/archive/master.zip)**
+**DOWNLOAD: [VIRTUAL MACHINE](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/releases/download/latest/DavidSuperEnvironment.ova) - [ONLY PROJECT CODE](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/archive/master.zip)**
 
 Last update: 2019-09-11
 
 *VIRTUAL MACHINE*
 
-![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/desktop.png)
-![Jasper Reports](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/jasperreports.png)
-![FileZilla](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/filezilla.png)
-![Putty](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/putty.png)
-![GIMP](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/gimp.png)
-![Gnumeric](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/gnumeric.png)
-![DBeaver](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/dbeaver.png)
-![DBeaver Diagram](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/dbeaverDiagram.png)
-![Kazam](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/kazam.png)
-![uGet](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/uget.png)
-![Apache Directory Studio](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/apacheDirectoryStudio.png)
-![Project Libre](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/projectLibre.png)
+![Desktop](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/desktop.png)
+![Jasper Reports](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/jasperreports.png)
+![FileZilla](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/filezilla.png)
+![Putty](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/putty.png)
+![GIMP](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/gimp.png)
+![Gnumeric](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/gnumeric.png)
+![DBeaver](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/dbeaver.png)
+![DBeaver Diagram](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/dbeaverDiagram.png)
+![Kazam](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/kazam.png)
+![uGet](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/uget.png)
+![Apache Directory Studio](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/apacheDirectoryStudio.png)
+![Project Libre](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/projectLibre.png)
 
 - Minimal Lubuntu 18.04.3 as a lightweight base (lubuntu-core package)
 - Linux Kernel 5 HWE (Hardware Enablement)
@@ -58,11 +58,11 @@ Last update: 2019-09-11
 
 *PROJECT CONTENTS*
 
-![Eclipse](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/eclipse.png)
-![Tomcat](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/tomcatRun.png)
-![App Login](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/appLogin.png)
-![App List](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/appList.png)
-![App New User Validation](https://raw.githubusercontent.com/Virtual-Machines/Super-Environment-VirtualBox/master/appNewUserValidation.png)
+![Eclipse](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/eclipse.png)
+![Tomcat](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/tomcatRun.png)
+![App Login](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/appLogin.png)
+![App List](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/appList.png)
+![App New User Validation](https://raw.githubusercontent.com/Virtual-Machines/Java-Environment-VirtualBox/master/appNewUserValidation.png)
 
 **FRONTEND (see webapp folders)**
 - HTML5, CSS and JS
