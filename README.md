@@ -1,6 +1,6 @@
 # Java Environment VirtualBox [DOWNLOAD](https://github.com/Virtual-Machines/Java-Environment-VirtualBox/releases/download/latest/JavaEnvironmentVirtualBox.ova)
 
-Last update: 2019-09-14
+Last update: 2019-09-22
 
 *VIRTUAL MACHINE*
 
@@ -25,13 +25,13 @@ Last update: 2019-09-14
 - Command-line download manager: wget
 - NAT port forwarding configured on 8080 that allows web browser testing outside virtual machine
 - OpenJDK 8
-- Eclipse 4.12 (2019-06) Java EE with Maven, Gradle, JPA, JSF, Mylyn and Egit (Git)
+- **Eclipse 4.13 (2019-09)** Java EE with Maven, Gradle, JPA, JSF, Mylyn and Egit (Git)
 - Java project configured
 - JasperSoft Studio Community (JasperReports) as Eclipse plugin
 - SonarLint (real-time code audit by SonarSource, the creators of SonarQube) as Eclipse plugin
 - Subclipse (SVN Team Provider) as Eclipse plugin (SVN connector installed and configured)
 - ObjectAid Class Diagram Tool
-- PostgreSQL and DBeaver
+- PostgreSQL 10 and **DBeaver 6.2**
 - PuTTy
 - FileZilla
 - Local mail testing server that is easy to integrate with javax.mail: Postfix (SMTP), mailutils, courier-pop and courier-imap
