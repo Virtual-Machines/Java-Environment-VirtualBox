@@ -31,7 +31,7 @@ Last update: 2019-09-27
 - SonarLint (real-time code audit by SonarSource, the creators of SonarQube) as Eclipse plugin
 - Subclipse (SVN Team Provider) as Eclipse plugin (SVN connector installed and configured)
 - ObjectAid Class Diagram Tool
-- PostgreSQL 10 and **DBeaver 6.2**
+- PostgreSQL 10 and **DBeaver 6.21**
 - PuTTy
 - FileZilla
 - Local mail testing server that is easy to integrate with javax.mail: Postfix (SMTP), mailutils, courier-pop and courier-imap
